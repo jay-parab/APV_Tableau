@@ -44,8 +44,8 @@ To ensure **visual consistency** and align with Amazon Prime's branding:
 ---
 
 ## 📌 Files in This Repository
-- **`Amazon_Prime_Dashboard.twbx`** - Tableau dashboard file
-- **`amazon_prime_data.csv`** - Dataset used for analysis
+- **`Amazon Prime Dashboard.twbx`** - Tableau dashboard file
+- **`amazon_prime_titles.csv`** - Dataset used for analysis
 - **`README.md`** - This documentation
 
 ---
