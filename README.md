@@ -52,4 +52,4 @@ To ensure **visual consistency** and align with Amazon Prime's branding:
 - **`README.md`** - This documentation
 
 ## 🔗 Tableau Public Link
-You can explore my Tableau Public Profile by clicking this link :
+You can explore my **Tableau Public Profile** by clicking [here]([https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection](https://public.tableau.com/app/profile/jay.parab/vizzes))
