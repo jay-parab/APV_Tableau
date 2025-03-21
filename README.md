@@ -1,5 +1,8 @@
 # 📊 Amazon Prime Video Data Visualization Dashboard
 
+## 📸 Dashboard Preview
+[![AmazonPrimeDashboard](https://github.com/user-attachments/assets/b89196b6-890f-4d10-86a7-6a0f33a01920)](https://public.tableau.com/views/AmazonPrimeDashboard_17067142873210/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 🎬 About This Dataset
 Amazon Prime is one of the most popular media and video streaming platforms. As of mid-2021, they had over **200M subscribers globally**, offering close to **10,000 movies and TV shows**. 
 
@@ -48,4 +51,5 @@ To ensure **visual consistency** and align with Amazon Prime's branding:
 - **`amazon_prime_titles.csv`** - Dataset used for analysis
 - **`README.md`** - This documentation
 
----
+## 🔗 Tableau Public Link
+You can explore my Tableau Public Profile by clicking this link :
